@@ -1,0 +1,21 @@
+.git
+.gitignore
+
+# Python virtual environment and cache
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ruff_cache/
+.ipynb/
+
+.direnv/
+.ropeproject/
+.vscode/
+
+output/
+target/
+dist/
+build/

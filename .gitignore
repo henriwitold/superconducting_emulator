@@ -1,0 +1,30 @@
+/output
+.DS_Store
+__pycache__/
+.env
+.direnv
+.envrc
+# python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# outputs / runs / logs
+output/
+sbi-logs/
+
+# OS
+.DS_Store
+
+# large artifacts / models
+*.pt
+*.pkl
+*.npy
+*.npz
+
+# notebooks
+**/.ipynb_checkpoints/
+
+qc_env/
+.vscode/
